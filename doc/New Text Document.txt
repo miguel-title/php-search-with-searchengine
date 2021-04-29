@@ -1,0 +1,6 @@
+gmail: emailforpushies@gmail.com
+
+ftp info:
+server: ftp.uaifund.us
+Username: ArtPhoto
+Password: TestFolder@$$$9
